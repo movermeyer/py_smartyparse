@@ -119,7 +119,7 @@ Smartyparse is under development as part of the [Muse protocol](https://github.c
     + http://www.dragonwins.com/domains/getteched/bmp/bmpfileformat.htm
 + Move/mirror documentation to readthedocs
 + Add padding generation method (in addition to constant byte)
-+ Add pip version badge: ```[![PyPi version](https://pypip.in/v/$REPO/badge.png)](https://github.com/Muterra/py_smartyparse)``` above.
++ Add pip version badge: ```[![PyPi version](https://img.shields.io/pypi/v/.svg$REPO/badge.png)](https://github.com/Muterra/py_smartyparse)``` above.
 + Support bit orientation
 + Support endianness of binary blobs (aka transforming from little to big)
 + Support memoization of static SmartyParsers for extremely performant parsing
